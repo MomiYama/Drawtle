@@ -1,9 +1,8 @@
 //
 //  AppDelegate.swift
-//  tableviewtest
 //
-//  Created by sensei on 2015/08/30.
-//  Copyright (c) 2015年 senseiswift. All rights reserved.
+//  Created by MomijiYamamoto on 2015/08/30.
+//  Copyright (c) 2015年 MomijiYamamoto. All rights reserved.
 //
 
 import UIKit
@@ -20,7 +19,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         // なりすまし
         //self.storage.setObject(2, forKey: "user_id")
-        // しますりな
         print("my user_id is ")
         println(storage.objectForKey("user_id"))
         

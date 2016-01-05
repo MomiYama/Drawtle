@@ -1,8 +1,8 @@
 //
 //  AlarmViewController.swift
 //
-//  Created by sensei on 2015/08/30.
-//  Copyright (c) 2015年 senseiswift. All rights reserved.
+//  Created by MomijiYamamoto on 2015/08/30.
+//  Copyright (c) 2015年 MomijiYamamoto. All rights reserved.
 //
 
 import UIKit

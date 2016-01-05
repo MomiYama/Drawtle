@@ -1,8 +1,7 @@
 //
 //  LikeListVC.swift
-//  teamApple
 //
-//  Created by duxca on 2015/09/09.
+//  Created by MomijiYamamoto on 2015/09/09.
 //
 //
 

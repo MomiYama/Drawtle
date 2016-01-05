@@ -1,8 +1,7 @@
 //
 //  TabBarVC.swift
-//  teamApple
 //
-//  Created by yohsukeino on 2015/09/10.
+//  Created by MomijiYamamoto on 2015/09/10.
 //
 //
 

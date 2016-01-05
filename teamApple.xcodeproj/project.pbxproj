@@ -15,7 +15,6 @@
 		39C983231B9EBA0A0053448F /* Memo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39C983221B9EBA0A0053448F /* Memo.swift */; };
 		39C983251B9EBA180053448F /* StockMemos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39C983241B9EBA180053448F /* StockMemos.swift */; };
 		39F4A8ED1BA1254F00053E24 /* TutorialViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39F4A8EC1BA1254F00053E24 /* TutorialViewController.swift */; };
-		39F4AB971BA1557600053E24 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39F4AB961BA1557600053E24 /* FirstViewController.swift */; };
 		39F740C01B9FA62900EEF1B7 /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 39C983161B9EB3A30053448F /* Alamofire.framework */; };
 		39F740C11B9FA62900EEF1B7 /* Alamofire.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 39C983161B9EB3A30053448F /* Alamofire.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		39F740C61B9FA64100EEF1B7 /* Alamofire.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = 39C983161B9EB3A30053448F /* Alamofire.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
@@ -99,7 +98,6 @@
 		39C983221B9EBA0A0053448F /* Memo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Memo.swift; sourceTree = "<group>"; };
 		39C983241B9EBA180053448F /* StockMemos.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StockMemos.swift; sourceTree = "<group>"; };
 		39F4A8EC1BA1254F00053E24 /* TutorialViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TutorialViewController.swift; sourceTree = "<group>"; };
-		39F4AB961BA1557600053E24 /* FirstViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
 		FFC8F3CA1B92C57A00B6962F /* teamApple.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = teamApple.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FFC8F3CE1B92C57A00B6962F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FFC8F3CF1B92C57A00B6962F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -195,7 +193,6 @@
 				398706901B9E84BE0019F9FF /* AlarmViewController.swift */,
 				39C983091B9EB1B40053448F /* TextSendViewController.swift */,
 				39F4A8EC1BA1254F00053E24 /* TutorialViewController.swift */,
-				39F4AB961BA1557600053E24 /* FirstViewController.swift */,
 			);
 			path = tableviewtest;
 			sourceTree = "<group>";
@@ -340,7 +337,6 @@
 				398706911B9E84BE0019F9FF /* AlarmViewController.swift in Sources */,
 				39C983251B9EBA180053448F /* StockMemos.swift in Sources */,
 				FFC8F41E1B94822D00B6962F /* SecondViewController.swift in Sources */,
-				39F4AB971BA1557600053E24 /* FirstViewController.swift in Sources */,
 				149E18341BA0093500193201 /* LikeTabVC.swift in Sources */,
 				39C983231B9EBA0A0053448F /* Memo.swift in Sources */,
 				39C9830A1B9EB1B40053448F /* TextSendViewController.swift in Sources */,

@@ -1,9 +1,8 @@
 //
-//  LikeButton.swift
-//  ImageApp
+//  UILikeButton.swift
 //
-//  Created by Kazuhiro Shibanai on 2015/09/09.
-//  Copyright (c) 2015年 Kazuhiro Shibanai. All rights reserved.
+//  Created by MomijiYamamoto on 2015/09/09.
+//  Copyright (c) 2015年 MomijiYamamoto. All rights reserved.
 //
 
 import UIKit
